@@ -2,7 +2,7 @@
   "name": "react-template",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://your-username.github.io/react-template",
+  "homepage": "https://yunmd.github.io/react-template",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
